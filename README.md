@@ -16,3 +16,6 @@ This program takes two words, and combines them into a single phrase that separa
 3. Create a pull request from your fork to the repository.
 4. Wait for the request to be reviewed by our team.
 5. If we deem your contribution fit for our project, it will be merged into the main repository.
+
+### Why we decided on Covenant/GNU
+We picked these two for our license and code of conduct because they are very general and used in many open source projects such as this one, and because we have no specific concerns that require a more extensive lincensing agreement. These two are sufficient for our purposes.
